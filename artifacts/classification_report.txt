@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+       horse       0.99      0.99      0.99       360
+       zebra       0.99      0.99      0.99       415
+
+    accuracy                           0.99       775
+   macro avg       0.99      0.99      0.99       775
+weighted avg       0.99      0.99      0.99       775
